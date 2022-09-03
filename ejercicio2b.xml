@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml  OR15012 -->
+<pais nombre="El Salvador" codigotel="503" areaterritorial="12000km" moneda="USD">
+    <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Náhuat</autoctono>
+        <segundoidioma>Ingles</segundoidioma>
+    </idiomas>
+    <departamento id="1" nombre="San Salvador">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+        <zona>Central</zona>
+        <areaterritorial>1329km</areaterritorial>
+    </departamento>
+    <departamento id="2" nombre="La Libertad">
+        <cabecera>La Libertad</cabecera>
+        <habitantes>2,700,000</habitantes>
+        <altura>5145 MSNM</altura>
+        <zona>Central</zona>
+        <areaterritorial>3329km</areaterritorial>
+    </departamento>
+    <departamento id="3" nombre="San Miguel">
+        <cabecera>San Miguel</cabecera>
+        <habitantes>120,000</habitantes>
+        <altura>1245 MSNM</altura>
+        <zona>Oriental</zona>
+        <areaterritorial>123km</areaterritorial>
+    </departamento>
+</pais>

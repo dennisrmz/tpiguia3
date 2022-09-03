@@ -1,0 +1,14 @@
+apellido{
+    color: red;
+    font-style: italic;
+    background-color: aliceblue;
+}
+direccion {
+    color: yellow;
+    font-size: 1cm;
+    display: block;
+}
+ficha::before {
+    content: attr(fechaingreso);
+    color: rgb(255, 254, 254); font-weight: bold;
+}
